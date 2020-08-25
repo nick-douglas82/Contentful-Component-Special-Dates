@@ -1,0 +1,6 @@
+{
+  "id": "special-dates",
+  "name": "Special Dates",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": ["Object"]
+}
